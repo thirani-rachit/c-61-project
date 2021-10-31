@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background:linear-gradient(#34ebde 0%,#ff475a 100%);
+}
+
+    .line{
+        height: 5px;
+        width: 200px;
+        background-color: black;
+        margin: auto;
+    }  
+.ul1{
+  list-style: none;
+   top: 10px; 
+    right:10px; 
+    z-index: 10;
+    cursor: pointer;
+    position: fixed;
+}
+.li1{
+   float: right;
+  margin: 10px;
+    
+}
+img:hover{
+    transform:scale(0.9);
+}
